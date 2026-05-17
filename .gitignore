@@ -57,3 +57,7 @@ TestResult.xml
 nunit-*.xml
 
 .vscode
+
+API/appsettings.json
+
+API/dating.db*
